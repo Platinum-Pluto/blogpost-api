@@ -35,9 +35,9 @@ php artisan key:generate
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=your_database_name
-DB_USERNAME=your_username
-DB_PASSWORD=your_password
+DB_DATABASE=""
+DB_USERNAME=""
+DB_PASSWORD=""
 ```
 
 5. Run my database migrations:
